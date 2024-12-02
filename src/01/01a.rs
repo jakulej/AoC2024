@@ -1,3 +1,6 @@
+//Wczytuje plik nastepnie dziele go na linijki, następnie te dziele na pojedyczne znaki. 1 liczbe wrzucam do pierwszego kopca binarnego, 2 do drugiej struktury.
+// Struktury 
+
 use std::collections::BinaryHeap;
 
 fn main() {
