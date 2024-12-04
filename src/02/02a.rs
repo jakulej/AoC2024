@@ -23,3 +23,15 @@ fn main() {
         .count();
     print!("{:?}",score);
 }
+
+fn check_safety(raport_levels: Vec<isize>) -> bool {
+    let first_descending: bool = raport_levels[0] - raport_levels[1] > 0;
+
+    raport_levels.windows(2).all(|levels| {
+        let score = levels[0] - levels[1];
+        if !((score > 0) == first_descending && score.abs() >= 1 && score.abs() <= 3) {
+            return false;
+        }
+        true
+    })
+}
