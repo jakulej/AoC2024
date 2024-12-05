@@ -31,3 +31,12 @@ path = "./src/03/03a.rs"
 [[bin]]
 name = "task3b"
 path = "./src/03/03b.rs"
+
+[[bin]]
+name = "task4a"
+path = "./src/04/04a.rs"
+
+[[bin]]
+name = "task4b"
+path = "./src/04/04b.rs"
+
