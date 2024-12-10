@@ -40,3 +40,12 @@ path = "./src/04/04a.rs"
 name = "task4b"
 path = "./src/04/04b.rs"
 
+[[bin]]
+name = "task5a"
+path = "./src/05/05a.rs"
+
+[[bin]]
+name = "task5b"
+path = "./src/05/05b.rs"
+
+
