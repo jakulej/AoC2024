@@ -48,7 +48,6 @@ path = "./src/05/05a.rs"
 name = "task5b"
 path = "./src/05/05b.rs"
 
-
 [[bin]]
 name = "task6a"
 path = "./src/06/06a.rs"
@@ -56,3 +55,11 @@ path = "./src/06/06a.rs"
 [[bin]]
 name = "task6b"
 path = "./src/06/06b.rs"
+
+[[bin]]
+name = "task7a"
+path = "./src/07/07a.rs"
+
+[[bin]]
+name = "task7b"
+path = "./src/07/07b.rs"
