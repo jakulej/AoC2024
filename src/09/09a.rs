@@ -1,4 +1,4 @@
-use std::{collections::LinkedList};
+use std::collections::LinkedList;
 const FREE_SPACE:usize = usize::MAX;
 fn main(){
     let file= include_bytes!("input.txt");
