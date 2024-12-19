@@ -87,3 +87,11 @@ path = "./src/10/10a.rs"
 [[bin]]
 name = "task10b"
 path = "./src/10/10b.rs"
+
+[[bin]]
+name = "task11a"
+path = "./src/11/11a.rs"
+
+[[bin]]
+name = "task11b"
+path = "./src/11/11b.rs"
